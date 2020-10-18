@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Data
-DATA_ROOT=~/Workspace/data/simplebooks-2
+DATA_ROOT=<Path to data directory> # Should contain three files: train.txt, valid.txt and test.txt
 WARM_START=False
 
 # Model
